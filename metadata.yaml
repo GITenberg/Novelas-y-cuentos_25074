@@ -1,0 +1,29 @@
+_repo: Novelas-y-cuentos_25074
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Estébanez Calderón, Serafín
+    aliases:
+    - Calderón, Serafín Estébanez
+    - Estebanez Calderon, Serafin
+    birthdate: 1799
+    deathdate: 1867
+    gutenberg_agent_id: '6151'
+    url: http://www.gutenberg.org/2009/agents/6151
+description: ''
+gutenberg_issued: '2008-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25074'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Spanish fiction -- 19th century'
+title: Novelas y cuentos
+url: http://www.gutenberg.org/ebooks/25074
